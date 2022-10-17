@@ -1,0 +1,25 @@
+body {
+    background-color: rgba(0, 0, 0, 0.8); color: #fff;
+    border-image: 10%;
+  }
+  
+header{
+   font-size: 100%;
+    font-family: monospace;
+    color:  #F4B504;;
+    font-weight: bolder;
+    text-align: center;
+  }
+  
+  h4 {
+    color: wheat;
+    text-align: center;
+
+  }
+  h4 #clock{
+    display: block;
+    
+  }
+
+  
+  
