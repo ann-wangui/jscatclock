@@ -10,6 +10,7 @@
   html,body{
     display: grid;
     place-items: center;
+    background-color:rgb(119, 113, 101);
 
   }
   #dayIntro
